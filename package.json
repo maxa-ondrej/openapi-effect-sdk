@@ -1,5 +1,5 @@
 {
-	"name": "@omaxa-csas/openapi-effect",
+	"name": "@omaxa-csas/openapi-effect-sdk",
 	"version": "0.0.0",
 	"type": "module",
 	"packageManager": "pnpm@9.10.0",
