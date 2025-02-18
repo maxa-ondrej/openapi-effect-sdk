@@ -12,8 +12,8 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"module": "dist/openapi-effect.js",
-	"main": "dist/openapi-effect.cjs",
+	"module": "dist/openapi-effect-sdk.js",
+	"main": "dist/openapi-effect-sdk.cjs",
 	"types": "dist/dts/src/index.d.ts",
 	"files": ["dist", "README.md"],
 	"scripts": {
